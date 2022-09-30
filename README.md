@@ -31,7 +31,7 @@ i-Notes is a free-form notes web application. It allows you to store all of your
 
 1. Clone the client repository 
    ```sh
-   git clone https://github.com/ayushyadav9/inote-client
+   git clone https://github.com/ramnaik018/iNotes
    ```
 
 2. Install all npm packages from package.json
